@@ -1,4 +1,4 @@
-# Responsive Lsnding Page
+# Responsive Landing Page
 Eine responsive Website gebaut mit HTML, CSS und JavaScript.
 ## Technologien 
 - HTML
