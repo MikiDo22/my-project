@@ -1,11 +1,11 @@
 # Responsive Lsnding Page
 Eine responsive Website gebaut mit HTML, CSS und JavaScript.
-# Technologien 
+## Technologien 
 - HTML
 - Css
 - JavaScript
-# Features
+## Features
 - Responsive  Design
 - Todo Funktionalität
-# Live Demo 
+## Live Demo 
 Coming soon....
